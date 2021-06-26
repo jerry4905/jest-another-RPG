@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jerry4905/jest-another-RPG/issues"
   },
-  "homepage": "https://github.com/jerry4905/jest-another-RPG#readme"
+  "homepage": "https://github.com/jerry4905/jest-another-RPG#readme",
+  "dependencies": {
+    "inquirer": "^8.1.1"
+  }
 }
